@@ -1,3 +1,6 @@
+*****************************************************************************************************************************************************************************
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<<<....::::HammerX:::...>>>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+*****************************************************************************************************************************************************************************
 ## 🔥 HammerX - Advanced DDoS Stress Testing Tool
 
 A powerful, multithreaded DDoS tool for HTTP, TCP, and UDP stress testing.  
