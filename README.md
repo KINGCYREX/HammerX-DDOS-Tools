@@ -1,5 +1,5 @@
 *****************************************************************************************************************************************************************************
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<<<....::::HammerX:::...>>>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<<<....::::HammerX:::...>>>
 *****************************************************************************************************************************************************************************
 ## 🔥 HammerX - Advanced DDoS Stress Testing Tool
 
